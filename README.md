@@ -17,4 +17,6 @@ My name is Tyler Layton, and I'm pursuing a career in Data Science, **a field th
 - Problem solver
 - Strong research skills
 
-I chose the ice cream photo because it's the least generic image I had.
+I chose the ice cream photo because it's the least generic image I had. I hope you enjoy it!
+
+PXL_20240829_213358398.jpg
